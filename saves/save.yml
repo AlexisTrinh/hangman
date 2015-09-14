@@ -1,0 +1,11 @@
+--- !ruby/object:Hangman::Game
+secret_word: shades
+clue_word: __a_e_
+wrong_guesses:
+- o
+- u
+- i
+remaining_guesses: 5
+right_guesses:
+- a
+- e
